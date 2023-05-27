@@ -22,10 +22,10 @@ install_pip_package numpy>=1.18.3
 install_pip_package scipy==1.4.1
 install_pip_package scikit-image==0.16.2
 install_pip_packages pyyaml termcolor tqdm yacs
-install_pip_package opencv-python  
+#install_pip_package opencv-python  
 
 #pip3 uninstall opencv-contrib-python  # better to clean it before installing the right version 
-install_pip_package opencv-contrib-python #==3.4.2.16 
+#install_pip_package opencv-contrib-python #==3.4.2.16 
 
 install_pip_package torch 
 install_pip_package torchvision

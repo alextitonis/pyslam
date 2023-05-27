@@ -70,7 +70,6 @@ dependencies:
   - nspr=4.25
   - nss=3.47
   - numpy=1.18.1
-  - opencv=3.4.1
   - openh264=1.8.0
   - openssl=1.1.1e
   - pcre=8.44
